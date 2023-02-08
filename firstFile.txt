@@ -4,7 +4,14 @@ Added firstFile.txt to git_1
 Added firstFile.txt to git_1
 Added firstFile.txt to git_1
 Added firstFile.txt to git_1
+<<<<<<< HEAD
 Added firstFile.txt to git_1
 Added firstFile.txt to git_1
 Added firstFile.txt to git_1
 Added firstFile.txt to git_1 
+=======
+Added firstFile.txt to git_1 Changed another 2 lines in firstFile.txt in git_1 
+Added firstFile.txt to git_1 Changed another 2 lines in firstFile.txt in git_1
+Added firstFile.txt to git_1 Changed 2 lines in firstFile.txt in git_1 
+Added firstFile.txt to git_1 Changed 2 lines in firstFile.txt in git_1 
+>>>>>>> cc1c271 (Changed another 2 lines in firstFile.txt in git_1)
